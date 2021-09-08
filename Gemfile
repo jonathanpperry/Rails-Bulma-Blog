@@ -54,7 +54,7 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   # Make errors better looking
-  gem 'better_errors', '~> 2.4'
+  gem 'better_errors', '~> 2.9'
   # Guard is a command line tool to easily handle events on file system modifications.
   gem 'guard', '~> 2.15'
   # Guard::LiveReload automatically reloads your browser when 'view' files are modified.
